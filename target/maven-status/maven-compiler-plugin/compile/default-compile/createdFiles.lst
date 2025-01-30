@@ -1,0 +1,6 @@
+com\example\xmlparser\controller\FileUploadController.class
+com\example\xmlparser\service\XmlParserService.class
+com\example\xmlparser\model\Feed.class
+com\example\xmlparser\XmlParserApplication.class
+com\example\xmlparser\model\Entry.class
+com\example\xmlparser\service\ExcelService.class
